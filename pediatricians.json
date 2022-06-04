@@ -1,6 +1,6 @@
 [{
 "id":1,   
-"title":"Prof. Dr Mustafa Çakır",
+"title":"Prof. Dr Yaren Aslan",
 "profession":"Çocuk Nörolojisi",
 "school":"Ankara Üniversitesi",
 "availability":true,
@@ -24,7 +24,7 @@
 },
 {
 "id":4,  
-"title":"Uzm. Ahmet Kayadelen",
+"title":"Uzm. Canan Kaya",
 "profession":"Çocuk Gelişimi",
 "school":"Fırat Üniversitesi",
 "availability":true,
@@ -32,7 +32,7 @@
 },
 {
 "id":5,
-"title":"Uzm. Dr Elif Durak",
+"title":"Uzm. Dr Ahmet Durak",
 "profession":"Çocuk Sağlığı ve Hastalıkları",
 "school":"Gaziantep Üniversitesi",
 "availability":false,
@@ -56,7 +56,7 @@
 },
 {
 "id":8,
-"title":"Uzm. Dr. Başak Çınar",
+"title":"Uzm. Dr. Muhammed Çınar",
 "profession":"Çocuk Gelişimi",
 "school":"Atatürk Üniversitesi",
 "availability":true,
@@ -72,7 +72,7 @@
 },
 {
 "id":10,
-"title":"Fatih Uzun",
+"title":"Selda Uzun",
 "profession":"Psikolog",
 "school":"Işık Üniversitesi",
 "availability":false,
@@ -80,7 +80,7 @@
 },
 {
 "id":11,
-"title":"Uzm. Dr. Enes Taşkıran",
+"title":"Uzm. Dr. Sude Taşkıran",
 "profession":"Çocuk Sağlığı ve Hastalıkları",
 "school":"Eskişehir Üniversitesi",
 "availability":false,
@@ -88,7 +88,7 @@
 },
 {
 "id":12,
-"title":"Uzm. Dr. Enes Taşkıran",
+"title":"Uzm. Dr. Pınar Taşkıran",
 "profession":"Çocuk Sağlığı ve Hastalıkları",
 "school":"Eskişehir Üniversitesi",
 "availability":true,
@@ -96,7 +96,7 @@
 },
 {
 "id":13,
-"title":"Uzm. Dr. Muhammed Kaya",
+"title":"Uzm. Dr. Elif Kaya",
 "profession":"Pediatrik Ergoterapi",
 "school":"İstanbul Gelişim Üniversitesi",
 "availability":false,
@@ -120,7 +120,7 @@
 },
 {
 "id":16,
-"title":"Uzm. Dr. Adem Karlıdağ",
+"title":"Uzm. Dr. Irmak Karlıdağ",
 "profession":"Çocuk Gelişimi",
 "school":"Pamukkale Üniversitesi",
 "availability":true,
